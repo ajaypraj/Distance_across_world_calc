@@ -1,0 +1,24 @@
+21/06/2019 04:17:14 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eon+Pune&format=json&limit=1
+21/06/2019 04:17:14 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=shivaji+nagar+pune&format=json&limit=1
+21/06/2019 04:17:15 PM:INFO:None
+21/06/2019 04:17:15 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eon+Pune&format=json&limit=1
+21/06/2019 04:17:16 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=shivaji+nagar+pune&format=json&limit=1
+21/06/2019 04:17:17 PM:INFO:None
+21/06/2019 04:17:42 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eon+Pune&format=json&limit=1
+21/06/2019 04:17:43 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=hinjwadi+pune&format=json&limit=1
+21/06/2019 04:17:44 PM:INFO:None
+21/06/2019 04:17:51 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=Eon+Pune&format=json&limit=1
+21/06/2019 04:17:52 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=hinjewadi+pune&format=json&limit=1
+21/06/2019 04:17:53 PM:INFO:None
+21/06/2019 04:18:24 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=katraj+Pune&format=json&limit=1
+21/06/2019 04:18:25 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=hinjewadi+pune&format=json&limit=1
+21/06/2019 04:18:25 PM:INFO:None
+21/06/2019 04:18:54 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=katraj+Pune&format=json&limit=1
+21/06/2019 04:18:55 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=phoenix+mall+pune&format=json&limit=1
+21/06/2019 04:18:56 PM:INFO:None
+21/06/2019 04:19:14 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=katraj+Pune&format=json&limit=1
+21/06/2019 04:19:15 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=phoenix+mall+pune&format=json&limit=1
+21/06/2019 04:19:16 PM:INFO:None
+21/06/2019 04:19:17 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=katraj+Pune&format=json&limit=1
+21/06/2019 04:19:18 PM:DEBUG:Nominatim.geocode: https://nominatim.openstreetmap.org/search?q=phoenix+mall+pune&format=json&limit=1
+21/06/2019 04:19:19 PM:INFO:None
